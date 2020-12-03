@@ -141,6 +141,7 @@ hr {
   text-decoration: none;
   padding: 20px;
   font-family: 'Montserrat', sans-serif;
+  font-size: 100%;
 }
 
 a:hover {
@@ -150,5 +151,5 @@ a:hover {
 .name-c {
   padding-top: 20px;
   color: #757a0c;
-  font-size: 0.9rem;
+  font-size: 60%;
 }
